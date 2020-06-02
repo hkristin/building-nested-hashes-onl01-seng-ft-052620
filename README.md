@@ -1,4 +1,3 @@
-
 # Code Along Exercise: Building Nested Hashes
 
 ## Objectives
